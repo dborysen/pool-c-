@@ -1,0 +1,21 @@
+{
+	"files.associations": {
+		"__locale": "cpp",
+		"__config": "cpp",
+		"__nullptr": "cpp",
+		"exception": "cpp",
+		"initializer_list": "cpp",
+		"new": "cpp",
+		"stdexcept": "cpp",
+		"typeinfo": "cpp",
+		"iostream": "cpp",
+		"__string": "cpp",
+		"string": "cpp",
+		"string_view": "cpp",
+		"memory": "cpp",
+		"__bit_reference": "cpp",
+		"algorithm": "cpp",
+		"bitset": "cpp",
+		"chrono": "cpp"
+	}
+}
